@@ -1,0 +1,65 @@
+body{
+	margin: -50px 0 0 0;
+	background: lightblue;
+	padding-top: 70px;
+}
+header {
+	text-align: center;
+	font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+}
+h1{
+	color: #2f4f4f;
+	font-size: 80px;
+	background: url(http://www.hdwallpapersact.com/wp-content/gallery/yellow-orange/hd-yellow-orange.jpg);
+	background-color: #6495ED;
+	background-size: cover;
+	background-opacity: 0.5;
+	background-position: top;
+    padding: 90px 0 120px 0;
+	font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+
+}
+h2{
+	font-size: 20px;
+	color: #2f4f4f;
+	margin: -50px 0 10px 0;
+	font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+}
+a {
+	background: transparent;
+}
+h3 {
+	text-align: center;
+	color: orange;
+	padding: 10px;
+	font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+}
+.about {
+	background-color: rgba(47, 79, 79, .6);
+	border-radius: 12px;
+	margin: 40px 80px 0 80px;
+	height: 200px;
+}
+.blog {
+	background-color: rgba(47, 79, 79, .6);
+	border-radius: 12px;
+	margin: 40px 80px 0 80px;
+	height: 200px;
+}
+.gallery {
+	background-color: rgba(47, 79, 79, .6);
+	border-radius: 12px;
+	margin: 40px 80px 0 80px;
+	height: 200px;
+}
+.navbar {
+	height: 20px;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+	float: none;
+	padding: 10px 30px 10px 30px;
+	line-height: 19px;
+    color: orange;
+    background-color: transparent;
